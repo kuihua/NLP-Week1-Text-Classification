@@ -22,6 +22,30 @@
       "include_colab_link": true
     },
     "accelerator": "GPU",
+    "widgets": {
+      "application/vnd.jupyter.widget-state+json": {
+        "8a2a06e3011949a5acd0c04cbf2b0fa3": {
+          "model_module": "@jupyter-widgets/controls",
+          "model_name": "HBoxModel",
+          "model_module_version": "1.5.0",
+          "state": {
+            "_dom_classes": [],
+            "_model_module": "@jupyter-widgets/controls",
+            "_model_module_version": "1.5.0",
+            "_model_name": "HBoxModel",
+            "_view_count": null,
+            "_view_module": "@jupyter-widgets/controls",
+            "_view_module_version": "1.5.0",
+            "_view_name": "HBoxView",
+            "box_style": "",
+            "children": [
+              "IPY_MODEL_eb3a4f843d0e4456838de3c1981342f2",
+              "IPY_MODEL_ef9e2d82350242d0a55ccb44cbd48c16",
+              "IPY_MODEL_a5d731b68a92494e9dfe8bde5f6714f1"
+            ],
+            "layout": "IPY_MODEL_215d4e6c35054cecbb388f56301d2b63"
+          }
+        },
         "eb3a4f843d0e4456838de3c1981342f2": {
           "model_module": "@jupyter-widgets/controls",
           "model_name": "HTMLModel",
