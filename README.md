@@ -15,3 +15,4 @@ There will be a text cell giving a warning at that cell.
 ### Note
 
 We worked on much of the project together in person or over call on one person's computer, which is why most of the commits are from the same GitHub account.
+If you cannot view the notebook from GitHub, please open it from colab (https://colab.google/notebooks/). It is a render issue.
